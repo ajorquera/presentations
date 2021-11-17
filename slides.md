@@ -29,9 +29,9 @@ _David R. Hamilton_ [<sup>1</sup>](https://www.goodreads.com/book/show/21255074-
 
 ## Context
 
-David Hamilton is a scientist with a degree in chemistry, working in the pharmaceutical industry for over 4 years. His lack of self-esteem sabotage his life in many ways, so he set himself in a journey to improve his life by writing this books while working.
+David Hamilton is a scientist with a degree in chemistry, working in the pharmaceutical industry for over 4 years. His lack of self-esteem sabotage his life in many ways, so he set himself in a journey to improve his life by writing this book while working.
 
-#### **Same reason Im giving this presentation**
+#### **Same reason why Im giving this presentation**
 
 This book references latest research into brain chemistry, neuroscience and psychotherapeutic techniques. David presents multiple exercices to help anyone interested in having a healthy self-esteem.
 
@@ -50,7 +50,11 @@ Self-esteem impacts your decision-making process, your relationships, your emoti
 ## Where are you?
 
 - Three stages of self love
-  <img src="/images/tree-stages-love.png" class="" />
+  <img src="/images/tree-stages-love.png" class="w-80" />
+
+<br />
+
+> The key to grown is the introduction of higher dimensions of consciousness into our awareness. _Lao Tzu_
 
 ---
 
@@ -58,16 +62,30 @@ Self-esteem impacts your decision-making process, your relationships, your emoti
 
 > Research indicates that parenting is a primary predictor of how prone our children will be to shame or guilt. _Brene Brown, Daring Greatly_
 
+- Emotional madurity doesnt come with age
+- Environment is essential
+- How we question our worth
+
+  - Being shamed
+  - Being critized
+  - Through observation
+
+- Not about blame
+
+---
+
 ## Tricks
 
-- Brain <-> Body
+- Brain <-> Body - Fake it until you make it
+  <img src="/images/brain-body.png" class="w-80" />
+
 - Visualization
 - Neuroplasticity
 - Repetition, repetition, repetion.
 
 ---
 
-Notes
+Concepts
 
 - Self compassion
   Why whe are wired to connect
@@ -80,3 +98,5 @@ Notes
   Forgiveness
 
 ## Where are you going
+
+- How much you know about the subject? I didnt know anything one year ago. My brain exploded
