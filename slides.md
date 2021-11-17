@@ -29,11 +29,17 @@ _David R. Hamilton_ [<sup>1</sup>](https://www.goodreads.com/book/show/21255074-
 
 ## Context
 
-David Hamilton is a scientist with a degree in chemistry, working in the pharmaceutical industry for over 4 years. His lack of self-esteem sabotage his life in many ways, so he set himself in a journey to improve his life by writing this book while working.
+David Hamilton is a scientist with a degree in chemistry, working in the pharmaceutical industry for over 4 years. His lack of self-esteem sabotage his life in many ways, so he set himself in a journey to improve his life by writing this book.
+
+Me, I have a bachelor in chemistry and I became a software engineer. Never wrote any book, just this silly presentation.
+
+What we have in common? We are f\*\*\*k.
 
 #### **Same reason why Im giving this presentation**
 
 This book references latest research into brain chemistry, neuroscience and psychotherapeutic techniques. David presents multiple exercices to help anyone interested in having a healthy self-esteem.
+
+<!--Just read. Im reading not just this book, but everything related to psychology-->
 
 ---
 
@@ -44,6 +50,8 @@ This book references latest research into brain chemistry, neuroscience and psyc
 Self-esteem impacts your decision-making process, your relationships, your emotional health, and your overall well-being. Basically everything
 
 <img src="/images/positive-reinforcement.png" />
+
+<!--Talk about the feedback loop. Touch the depresion subject-->
 
 ---
 
@@ -56,6 +64,15 @@ Self-esteem impacts your decision-making process, your relationships, your emoti
 
 > The key to grown is the introduction of higher dimensions of consciousness into our awareness. _Lao Tzu_
 
+<!--
+Talk about the phrase.
+Im not enough - Here is where you have a self love deficit. AS the author, he was psycologica bullied, I wasnt bullied but I feel rejected. I felt isolated. Too much rejection. Also, people with low self confidence are more likely to be targeted by others, according to a study.
+
+Ive had enough - This phase is characterized by burst of anger. I remember In high school it was like a traumatic event that made me change my behaviour rapidly. Here is the place where we start feeling free. This was my phase of not giving a flying fuck about anything.
+
+Im enough - Here is where we are actually healthy. We dont need to prove anything to anyone. We are just happy with who we are. No more need of people to like us. Here is where I want to be
+-->
+
 ---
 
 ## Parents
@@ -63,8 +80,7 @@ Self-esteem impacts your decision-making process, your relationships, your emoti
 > Research indicates that parenting is a primary predictor of how prone our children will be to shame or guilt. _Brene Brown, Daring Greatly_
 
 - Emotional madurity doesnt come with age
-- Environment is essential
-- How we question our worth
+- Environment is important
 
   - Being shamed
   - Being critized
@@ -72,31 +88,48 @@ Self-esteem impacts your decision-making process, your relationships, your emoti
 
 - Not about blame
 
+<!--
+We all have seen people on their 30 or 40 behaving like children. Specially when you poke in the right spot. Being emotionally mature requires some awareness about one self and practice in how to control our emotions. For most of us, it doesnt come by itself. Is very possible that the parents that we got are not emotioanlly mature which affects their children.
+
+There is no doubt that genetics plays an important role but environment is king. Hamilton explains that we learn about selfesteem from our parents mainly.
+
+* Shaming as corrective behaviour and its consecuences. Parents probably learn this behaviour from their own parents
+
+* Being critized is some ways can be healthy, but if its consistent enough, it could give rise to not being enough. People can become hipersensitive to criticism and perfectionist behaviour
+
+* Through observation - We can also learn though the behaviour of our primary caregiver
+
+This is not about blaming our parents, most of them did it the best as they could. Life has some many circunstances that is imposible for anyone to get it right. Understanding rather tham blame, has to be the way forward for us
+-->
+
 ---
 
 ## Tricks
 
-- Brain <-> Body - Fake it until you make it
-  <img src="/images/brain-body.png" class="w-80" />
-
+- Meditation
 - Visualization
-- Neuroplasticity
 - Repetition, repetition, repetion.
+- Brain <---------> Body - Fake it until you make it
+  <img src="/images/brain-body.png" class="w-50" />
 
 ---
 
-Concepts
+## Concepts
 
+- Neuroplasticity
 - Self compassion
-  Why whe are wired to connect
-  Authenticity
-  Shame
-  Body image
-  Vulnerability
-  Personal gravity / Personal Repulsion
-  Meditation
-  Forgiveness
+- Why whe are wired to connect
+- Authenticity
+- Shame
+- Body image
+- Vulnerability
+- Personal gravity / Personal Repulsion
+- Forgiveness
+
+---
 
 ## Where are you going
 
-- How much you know about the subject? I didnt know anything one year ago. My brain exploded
+- First step is self awareness.
+- What do you want to achieve?
+- Read and practice
