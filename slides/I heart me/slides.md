@@ -49,7 +49,7 @@ This book references latest research into brain chemistry, neuroscience and psyc
 
 Self-esteem impacts your decision-making process, your relationships, your emotional health, and your overall well-being. Basically everything
 
-<img src="/images/positive-reinforcement.png" />
+<img src="./images/positive-reinforcement.png" />
 
 <!--Talk about the feedback loop. Touch the depresion subject-->
 
@@ -58,7 +58,7 @@ Self-esteem impacts your decision-making process, your relationships, your emoti
 ## Where are you?
 
 - Three stages of self love
-  <img src="/images/tree-stages-love.png" class="w-80" />
+  <img src="./images/tree-stages-love.png" class="w-80" />
 
 <br />
 
@@ -110,7 +110,7 @@ This is not about blaming our parents, most of them did it the best as they coul
 - Visualization
 - Repetition, repetition, repetion.
 - Brain <---------> Body - Fake it until you make it
-  <img src="/images/brain-body.png" class="w-50" />
+  <img src="./images/brain-body.png" class="w-50" />
 
 ---
 
