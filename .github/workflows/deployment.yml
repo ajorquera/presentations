@@ -19,7 +19,7 @@ jobs:
           npm run build
       
       - name: Copy images
-        run: cp -r images dist/images
+        run: cp -r ./slides/images dist/images
 
       - name: Upload
         uses: actions/upload-pages-artifact@v3
