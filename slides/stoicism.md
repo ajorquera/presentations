@@ -47,11 +47,11 @@ Focus on what you can control (thoughts, actions) and accept what you cannot (ex
 ![bg 80% right:20%](./images/harmony-with-nature.png)
 4. **Harmony with Nature**
    
-  * Living in harmony means accepting the flow of events, both good and bad, as part of this larger order.
+  - Living in harmony means accepting the flow of events, both good and bad, as part of this larger order.
 
-  * Stoics emphasize living in harmony not only with nature but also with others, fostering mutual support and cooperation.
+  - Stoics emphasize living in harmony not only with nature but also with others, fostering mutual support and cooperation.
 
-  * Avoid excess and live in a way that aligns with your true needs and values, rather than societal pressures or superficial desires.
+  - Avoid excess and live in a way that aligns with your true needs and values, rather than societal pressures or superficial desires.
 
 ---
 
