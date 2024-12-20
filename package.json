@@ -2,7 +2,8 @@
   "name": "presentations",
   "private": true,
   "scripts": {
-    "start": "marp -s -I ./slides -o ./dist"
+    "start": "yarn build -s",
+    "build": "marp -I ./slides -o ./dist"
   },
   "dependencies": {
     "@marp-team/marp-cli": "^4.0.3"
