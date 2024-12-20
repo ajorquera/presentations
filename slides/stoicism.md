@@ -4,86 +4,91 @@ marp: true
 
 # Stoicism
 A guide to a better life
+![bg right](./images/stoicism.jpg)
 
 ---
-# **What is Stoicism?**
-Ancient Greek philosophy founded by **Zeno of Citium** (3rd century BCE). It goal is to have **a virtuous and tranquil life** through rational control of thoughts and actions.
+
+## **What is Stoicism?**
+Ancient Greek philosophy founded by **Zeno of Citium** (3rd century BC). It goal is to have **a virtuous and tranquil life** through rational control of thoughts and actions.
 
 Focuses on:
-  - Living in harmony with nature.
-  - Mastering emotions and achieving inner peace.
++ **Control and Acceptance**
++ **Living Virtuously**
++ **Mindfulness and Perspective**
++ **Harmony with Nature**
 
 ---
-# **Core Principles of Stoicism**
-1. **Dichotomy of Control**:  
-   - Focus on what you can control (thoughts, actions).  
-   - Accept what you cannot (external events).  
+
+## **Core Principles of Stoicism**
+![bg right](./images/dichotomy-control.png)
+1. **Control and Acceptance**:  
+Focus on what you can control (thoughts, actions) and accept what you cannot (external).  
 
 ---
+
+![bg 90% left](./images/cardinal-virtues.jpeg)
 
 2. **Living Virtuously**:  
-     - **Wisdom**: Practical judgment.  
-     - **Courage**: Facing fears with strength.  
-     - **Temperance**: Practicing moderation.  
-     - **Justice**: Treating others fairly.  
-
-
-3. **Amor Fati**:  
-   - Love your fate—embrace all events as necessary and meaningful.
+   - **Wisdom**: Practical judgment.  
+   - **Courage**: Facing fears with strength.  
+   - **Temperance**: Practicing moderation.  
+   - **Justice**: Treating others fairly.  
 
 ---
-# **Stoic Practices**
-1. **Journaling**: Reflect daily on actions, thoughts, and virtues.  
-2. **Negative Visualization**:  
-   - Imagine losing what you cherish to foster gratitude and resilience.  
-3. **Voluntary Discomfort**:  
-   - Practice enduring discomfort to build self-discipline.  
-4. **Memento Mori**:  
-   - Contemplate mortality to focus on what truly matters.
+
+3. **Mindfullness and Perspective**
+   It tries to introduce the practice of being fully aware of your thoughts, emotions, and actions in the present moment.
+
+   It also encourages the ability to view situations from a broader, rational standpoint rather than being consumed by immediate emotions or judgments.
+
+![width:300px](./images/mind.jpg)
+
+---
+![bg 80% right:20%](./images/harmony-with-nature.png)
+4. **Harmony with Nature**
+   
+  * Living in harmony means accepting the flow of events, both good and bad, as part of this larger order.
+
+  * Stoics emphasize living in harmony not only with nature but also with others, fostering mutual support and cooperation.
+
+  * Avoid excess and live in a way that aligns with your true needs and values, rather than societal pressures or superficial desires.
+
+---
+
+## **Stoic Practices**
+      * Negative Visualization (Premeditatio Malorum)
+      * Dichotomy of Control
+      * Mindful Reflection (Evening Reflection)
+      * Voluntary Discomfort
+      * Memento Mori (Remember you will die)
+      * Practice Gratitude
+      * Self-Discipline (Self-Control)
+      * Eudaimonia (Flourishing)
+      * Stoic Journaling
+      * Practice Compassion and Empathy
+      * Self-Awareness and Avoiding Ego
+      * Focus on the Present
 
 <!--
     Journaling: Morning preparation, evening reflection. 
 -->
 ---
 
-# **How Stoicism Handles Emotions**
+## **How Stoicism Handles Emotions**
 1. **Emotions as Natural**:  
-   - Feeling emotions like fear or sadness is human.  
-   - Stoics aim to prevent impulsive reactions, not deny emotions.
+Feeling emotions like fear or sadness is human. Stoics aim to prevent impulsive reactions, not deny emotions.
 
 2. **Transforming Perception**:  
-   - Emotions arise from judgments.  
-   - Reframe events (e.g., a challenge instead of failure) to change emotional responses.
+Emotions arise from judgments. Reframe events (e.g., a challenge instead of failure) to change emotional responses.
 
---- 
 3. **Moderation Over Suppression**:  
-   - Healthy expression is encouraged (e.g., grief is natural but should not consume you).  
-   - The goal is balance, not denial.
-</br></br></br>
+Healthy expression is encouraged (e.g., grief is natural but should not consume you). The goal is balance, not denial.
+
 > *“It’s not what happens to you, but how you react to it that matters.”*  
 – **Epictetus**
 
 ---
-# **Modern Applications of Stoicism**
-- **Emotional Resilience**:  
-  - Manage stress, anxiety, and setbacks effectively.  
-- **Leadership**:  
-  - Rational decision-making and emotional control.  
-- **Personal Growth**:  
-  - Build character and self-discipline in pursuit of virtue.
 
----
-# **Famous Stoics and Quotes**
-- **Marcus Aurelius** (Roman Emperor):  
-  *“You have power over your mind - not outside events. Realize this, and you will find strength.”*  
-
-- **Seneca** (Philosopher):  
-  *“We suffer more in imagination than in reality.”*  
-
-- **Epictetus** (Slave turned philosopher):  
-  *“It’s not what happens to you, but how you react to it that matters.”*
-
----
 # **Conclusion**
 - Stoicism teaches us to master our emotions, focus on virtue, and accept life’s challenges.  
 - Its practical tools help us live a resilient and fulfilling life.  
