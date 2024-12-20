@@ -89,7 +89,41 @@ Healthy expression is encouraged (e.g., grief is natural but should not consume 
 
 ---
 
-# **Conclusion**
+## **Conclusion**
 - Stoicism teaches us to master our emotions, focus on virtue, and accept life’s challenges.  
 - Its practical tools help us live a resilient and fulfilling life.  
 - *“The happiness of your life depends upon the quality of your thoughts.”* – Marcus Aurelius
+
+--- 
+
+## **Resources**
+
+**Books**
+
+      * “Meditations” by Marcus Aurelius
+      * “Letters from a Stoic” by Seneca
+      * “Discourses and Selected Writings” by Epictetus
+      * “The Obstacle Is the Way” by Ryan Holiday
+      * “Daily Stoic” by Ryan Holiday and Stephen Hanselman
+   > [Popular books on Goodreads](https://www.goodreads.com/list/show/45589.Popular_Books_on_Stoicism)
+
+**Websites**
+
+      * Daily Stoic
+      * Modern Stoicism
+      * The Stoic Fellowship
+      * Stoicism Today
+
+---
+
+**Podcasts**
+
+      “The Daily Stoic Podcast” by Ryan Holiday
+      “Stoic Meditations” by Massimo Pigliucci
+      “The Practical Stoic Podcast” by Simon Drew
+
+**Courses**
+
+      Stoic Week
+      The College of Stoic Philosophers
+      Stoicism 101 by Donald Robertson
